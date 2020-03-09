@@ -1,0 +1,436 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-03-15 01:18+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/EmployeesController.php:284
+msgid "The employee has been deleted."
+msgstr "L'employé a été supprimé"
+
+#: Controller/EmployeesController.php:286
+msgid "The employee could not be deleted. Please, try again."
+msgstr "L'employé n'a pu être supprimé. Veuillez Réessayer"
+
+#: Controller/EnterprisesController.php:60
+msgid "The enterprise has been saved."
+msgstr "L'entreprise a été enregistrée"
+
+#: Controller/EnterprisesController.php:64;105;118
+msgid "The enterprise could not be saved. Please, try again."
+msgstr "L'entreprise n'a pu être enregistrée. Veuillez réessayer"
+
+#: Controller/EnterprisesController.php:114
+msgid "The informations has been saved."
+msgstr "Informations sauvegardées"
+
+#: Controller/EnterprisesController.php:141
+msgid "The enterprise has been deleted."
+msgstr "L'entreprise a été supprimée"
+
+#: Controller/EnterprisesController.php:143
+msgid "The enterprise could not be deleted. Please, try again."
+msgstr "L'entreprise n'a pu être supprimée. Veuillez réessayer"
+
+#: Controller/ServicesController.php:321
+msgid "The service has been deleted."
+msgstr "Le service a été supprimé"
+
+#: Controller/ServicesController.php:323
+msgid "The service could not be deleted. Please, try again."
+msgstr "Le service n'a pu être supprimé. Veuillez réessayeré"
+
+#: Controller/UsersController.php:35
+msgid "Successfully logged in"
+msgstr "Connexion réussie"
+
+#: Controller/UsersController.php:88
+msgid "Account created! Welcome!"
+msgstr "Compte créé! Bienvenue!"
+
+#: Controller/UsersController.php:95
+msgid "Can't create your account. Please try again and make sure you entered all info"
+msgstr "Impossible de créer votre compte. Veuillez réessayer et assurez-vous de remplir tous les champs"
+
+#: Controller/UsersController.php:128
+msgid "Passwords don't match. Please, try again."
+msgstr "Les mots de passe de concordent pas. Veuillez réessayer"
+
+#: Controller/UsersController.php:132
+msgid "Wrong password. Please, try again."
+msgstr "Mauvais mot de passe. Veuillez réessayer"
+
+#: Controller/UsersController.php:139
+msgid "The user has been saved."
+msgstr "L'utilisateur a été enregistré"
+
+#: Controller/UsersController.php:143
+msgid "The user could not be saved. Please, try again."
+msgstr "L'utilisateur n'a pu être enregistré. Veuillez réessayer"
+
+#: Controller/UsersController.php:163
+msgid "The user has been deleted."
+msgstr "L'utilisateur a été supprimé."
+
+#: Controller/UsersController.php:165
+msgid "The user could not be deleted. Please, try again."
+msgstr "L'utilisateur n'a pu être supprimé. Veuillez réessayer"
+
+#: Controller/UsersController.php:178
+msgid "Thank you! Come again!"
+msgstr "Merci et au plaisir!"
+
+#: Model/Table/ProductsTable.php:80
+#: Model/Table/ServicesTable.php:79
+msgid "Please supply a valid monetary amount."
+msgstr "Veuillez entrer un nombre monétaire valide"
+
+#: Model/Table/ProductsTable.php:129
+msgid "Minimum quantity can't be higher than maximum"
+msgstr "La quantité minimale ne peut excéder celle maximale"
+
+#: Template/Employees/add.ctp:9
+#: Template/Employees/view.ctp:9
+msgid "Actions"
+msgstr ""
+
+#: Template/Employees/add.ctp:10
+#: Template/Employees/view.ctp:12
+msgid "List Employees"
+msgstr "Lister les employés"
+
+#: Template/Employees/add.ctp:16
+msgid "Add Employee"
+msgstr "Ajouter un employé"
+
+#: Template/Employees/add.ctp:27
+msgid "Submit"
+msgstr "Soumettre"
+
+#: Template/Employees/view.ctp:10
+msgid "Edit Employee"
+msgstr "Modifier l'employé"
+
+#: Template/Employees/view.ctp:11
+msgid "Delete Employee"
+msgstr "Supprimer l'employé"
+
+#: Template/Employees/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Voulez-vous vraiment supprimer # {0}"
+
+#: Template/Employees/view.ctp:13
+msgid "New Employee"
+msgstr "Nouvel employé"
+
+#: Template/Employees/view.ctp:20
+msgid "Firstname"
+msgstr "Prénom"
+
+#: Template/Employees/view.ctp:24
+msgid "Lastname"
+msgstr "nom de famille"
+
+#: Template/Employees/view.ctp:28
+msgid "Id"
+msgstr "Id"
+
+#: Template/Employees/view.ctp:32
+msgid "Employe Category Id"
+msgstr "Catégorie de l'employé"
+
+#: Template/Employees/view.ctp:36
+msgid "Picture Id"
+msgstr "Id de photo"
+
+#: Template/Employees/view.ctp:40
+msgid "Birthday"
+msgstr "Date de naissance"
+
+#: Template/Employees/view.ctp:44
+msgid "Hire Date"
+msgstr "Date d'embauche"
+
+#: Template/Employees/view.ctp:48
+msgid "Created"
+msgstr "Créé le"
+
+#: Template/Employees/view.ctp:52
+msgid "Modified"
+msgstr "Modifié le"
+
+#: Template/Employees/view.ctp:57
+msgid "Address"
+msgstr "Adresse"
+
+#: Template/Enterprises/view.ctp:15
+msgid "Joined "
+msgstr "A join le"
+
+#: Template/Enterprises/view.ctp:17
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+#: Template/Enterprises/view.ctp:24
+msgid "Details"
+msgstr "Détails"
+
+#: Template/Enterprises/view.ctp:26
+#: Template/Layout/default.ctp:62
+msgid "Employees"
+msgstr "Employés"
+
+#: Template/Enterprises/view.ctp:27
+#: Template/Layout/default.ctp:64
+msgid "Products"
+msgstr "Produits"
+
+#: Template/Enterprises/view.ctp:28
+#: Template/Layout/default.ctp:66
+msgid "Services"
+msgstr "Services"
+
+#: Template/Enterprises/view.ctp:29
+#: Template/Layout/default.ctp:68
+msgid "Suppliers"
+msgstr "Fournisseurs"
+
+#: Template/Enterprises/view.ctp:42
+msgid "Enterprise infos"
+msgstr "Information sur l'entreprise"
+
+#: Template/Enterprises/view.ctp:48;147
+msgid "Name"
+msgstr "Nom"
+
+#: Template/Enterprises/view.ctp:50
+msgid "Enter a name"
+msgstr "Entrez un nom"
+
+#: Template/Enterprises/view.ctp:57
+msgid "Domain Name"
+msgstr "Nom de domaine"
+
+#: Template/Enterprises/view.ctp:59
+msgid "Enter a domain name"
+msgstr "Entrez un nom de domaine"
+
+#: Template/Enterprises/view.ctp:74;153
+#: Template/Users/register.ctp:28
+msgid "Description"
+msgstr "Description"
+
+#: Template/Enterprises/view.ctp:77
+msgid "Enter a description"
+msgstr "Entrez une description"
+
+#: Template/Enterprises/view.ctp:83
+msgid "Save Enterprise Changes"
+msgstr "Enregistrer les modifications"
+
+#: Template/Enterprises/view.ctp:89
+msgid "User infos"
+msgstr "Informations sur l'utilisateur"
+
+#: Template/Enterprises/view.ctp:93
+msgid "Email"
+msgstr "Courriel"
+
+#: Template/Enterprises/view.ctp:95
+msgid "Enter an email"
+msgstr "Entrez un courriel"
+
+#: Template/Enterprises/view.ctp:102
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+#: Template/Enterprises/view.ctp:103
+msgid "Type your current password if you want to change it"
+msgstr "Entrez votre mot de passe actuel si vous voulez le changer"
+
+#: Template/Enterprises/view.ctp:111
+msgid "New Password"
+msgstr "nouveau mot de passe"
+
+#: Template/Enterprises/view.ctp:112
+msgid "Enter a new password"
+msgstr "Entrez un nouveau mot de passe"
+
+#: Template/Enterprises/view.ctp:120
+msgid "Confirm Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+#: Template/Enterprises/view.ctp:121
+msgid "Retype your password"
+msgstr "Retaper votre mot de passe"
+
+#: Template/Enterprises/view.ctp:127
+msgid "Save User Changes"
+msgstr "Enregistrer mes changements"
+
+#: Template/Enterprises/view.ctp:150
+msgid "Web site"
+msgstr "Site internet"
+
+#: Template/Enterprises/view.ctp:154
+#: Template/Pages/home.ctp:108
+msgid "No description available"
+msgstr "Aucune description disponible"
+
+#: Template/Layout/default.ctp:43
+msgid "Home"
+msgstr "Accueil"
+
+#: Template/Layout/default.ctp:56
+msgid "My Entreprise"
+msgstr "Mon entreprise"
+
+#: Template/Layout/default.ctp:60
+msgid "Profile"
+msgstr "Profil"
+
+#: Template/Layout/default.ctp:80
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: Template/Layout/default.ctp:84
+msgid "Login"
+msgstr "Connexion"
+
+#: Template/Layout/default.ctp:87
+msgid "Sign up"
+msgstr "S'enregistrer"
+
+#: Template/Layout/default.ctp:119
+msgid "All Rights Reserved"
+msgstr "Tous droits réservés"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Erreur"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Retour"
+
+#: Template/Pages/home.ctp:12
+msgid "Broaden your customer base"
+msgstr "Élargissez votre clientèle"
+
+#: Template/Pages/home.ctp:13
+msgid "Get visibility on a renowned platform"
+msgstr "Obtenez de la visibilité grâce à notre plateforme renommée"
+
+#: Template/Pages/home.ctp:14
+msgid "and see your business grow"
+msgstr "et voyez votre entreprise grandir"
+
+#: Template/Pages/home.ctp:45
+msgid "Search for a business"
+msgstr "Rechercher une entreprise"
+
+#: Template/Pages/home.ctp:46
+msgid "SEARCH"
+msgstr "RECHERCHER"
+
+#: Template/Pages/home.ctp:74
+msgid "Recently added businesses"
+msgstr "Entreprises récemment inscrites"
+
+#: Template/Pages/home.ctp:75
+msgid "Register now to get your business here!"
+msgstr "Enregistrez vous maintenant!"
+
+#: Template/Pages/home.ctp:132
+msgid "They already trust us"
+msgstr "Ils nous font déjà confiance"
+
+#: Template/Products/edit.ctp:100
+msgid "Select a category"
+msgstr "Sélectionnez une catégorie"
+
+#: Template/Products/edit.ctp:100
+msgid "Please add a category prior to create an item"
+msgstr "Veuillez créer une catégorie avant d'ajouter un item"
+
+#: Template/Products/index.ctp:337
+#: Template/Services/index.ctp:319
+msgid " It(they) will be deleted if you confirm."
+msgstr "Ils seront supprimés après confirmation "
+
+#: Template/Products/index.ctp:379
+#: Template/Services/index.ctp:363
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: Template/Services/fff/add.ctp:10
+msgid "Save Article"
+msgstr "Enregistrer l'article"
+
+#: Template/Users/login.ctp:4
+#: Template/Users/register.ctp:4;5
+msgid "Email "
+msgstr "Courriel"
+
+#: Template/Users/login.ctp:8;9
+#: Template/Users/register.ctp:8;9
+msgid "Password "
+msgstr "Mot de passe"
+
+#: Template/Users/login.ctp:11
+msgid "Connexion "
+msgstr "Connection"
+
+#: Template/Users/login.ctp:12
+msgid "Create an account "
+msgstr "Créer un compte"
+
+#: Template/Users/register.ctp:18
+msgid "Company Name"
+msgstr "Nom de l'entreprise"
+
+#: Template/Users/register.ctp:23
+msgid "Company domain (website url)"
+msgstr "Nom de domaine"
+
+#: Template/Users/register.ctp:32
+msgid "Company logo"
+msgstr "Logo"
+
+#: Template/Users/register.ctp:35
+msgid "Register "
+msgstr "S'enregistrer"
+
+#: Template/Users/register.ctp:36
+msgid "I have an account"
+msgstr "J'ai un compte"
+
+#: View/Helper/PaginatorHelper.php:1220
+msgid "View"
+msgstr "Afficher"
+
+#: Template/Layout/default.ctp:75
+msgid "Traduire en Français"
+msgstr "Translate in English"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "First page"
+msgstr "Première page"
+
+msgid "Last page"
+msgstr "Dernière page"

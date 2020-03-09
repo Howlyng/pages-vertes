@@ -1,0 +1,313 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-03-15 12:34+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/EmployeCategoriesController.php:58
+msgid "You must enter a category name in order to create one category. Please, try again."
+msgstr "Vous devez entrez un nom de catégorie, veuillez réessayer."
+
+#: Controller/EmployeCategoriesController.php:75;122
+msgid "The name of the category must be > 5 and < 50 characters"
+msgstr "Le nom de la catégorie doit être > 5 et < 50 caractères."
+
+#: Controller/EmployeCategoriesController.php:85
+msgid "The employee category has been saved."
+msgstr "La catégorie de l'employé a été sauvegardée."
+
+#: Controller/EmployeCategoriesController.php:92;139
+msgid "The employe category could not be saved. Please, try again."
+msgstr "La catégorie ne peut pas être sauvegardée, veuillez réessayer."
+
+#: Controller/EmployeCategoriesController.php:132
+msgid "The employe category has been saved."
+msgstr "La catégorie de l'employé a été sauvegardée."
+
+#: Controller/EmployeCategoriesController.php:172
+msgid "This category contains {0} employee(s)."
+msgstr "Cette catégorie contient {0} employé(s)"
+
+#: Controller/EmployeCategoriesController.php:201
+msgid "You can only delete your categories"
+msgstr "Vous ne pouvez supprimer que vos catégories"
+
+#: Controller/EmployeCategoriesController.php:207
+msgid "The employe category has been deleted."
+msgstr "La catégorie d'employé a été supprimée."
+
+#: Controller/EmployeCategoriesController.php:209
+msgid "The employe category could not be deleted. Please, try again."
+msgstr "La catégorie ne peut pas être sauvegardée, veuillez réessayer."
+
+#: Controller/EmployeesController.php:44
+#: Controller/EnterprisesController.php:37
+msgid "Sorry, this enterprise does not exist."
+msgstr "Désolé, cette entreprise n'existe pas."
+
+#: Controller/EmployeesController.php:140;225
+msgid "This category does not exist"
+msgstr "Cette catégorie n'existe pas."
+
+#: Controller/EmployeesController.php:153
+msgid "Please select an image."
+msgstr "Veuillez choisir une image."
+
+#: Controller/EmployeesController.php:166;241
+msgid "The employee has been saved."
+msgstr "L'employé a été sauvegardé."
+
+#: Controller/EmployeesController.php:170;233;245
+msgid "The employee could not be saved. Please, try again."
+msgstr "L'employé n'a pas pu être sauvegardé, veuillez réessayer."
+
+#: Controller/EmployeesController.php:199
+msgid "You can only modify your employees"
+msgstr "Vous ne pouvez modifier que vos employés"
+
+#: Controller/EmployeesController.php:285
+msgid "You can only delete your employees"
+msgstr "Vous ne pouvez supprimer que vos employés"
+
+#: Model/Table/EmployeCategoriesTable.php:70
+#: Model/Table/EmployeesTable.php:72;78
+msgid "Value must be > 5 and < 50 characters"
+msgstr "Le champs doit être > 5 et < 50 caractères."
+
+#: Model/Table/EmployeCategoriesTable.php:72
+#: Model/Table/EmployeesTable.php:74;80;85;90;96
+msgid "Value cannot be empty"
+msgstr "Ce champ ne peut être vide."
+
+#: Model/Table/EmployeesTable.php:94
+msgid "Value must be > 5 and < 100 characters"
+msgstr "Le champs doit être > 5 et < 100 caractères."
+
+#: Model/Table/EmployeesTable.php:117;121
+msgid "Birthday must be < today"
+msgstr "Le champs de date de naissance doit être < à aujourd'hui"
+
+#: Model/Table/EmployeesTable.php:131
+msgid "Hire date must be < today + 14 days"
+msgstr "La date d'embauche ne peut excéder de plus de 14 la date d'aujourd'hui"
+
+#: Template/Employees/edit.ctp:17
+msgid "New Employee"
+msgstr "Nouvel employé"
+
+#: Template/Employees/edit.ctp:22
+#: Template/Employees/index.ctp:33
+msgid "Manage your employees"
+msgstr "Nouvel employé"
+
+#: Template/Employees/edit.ctp:22
+#: Template/Employees/index.ctp:33
+msgid "View enterprise's employees"
+msgstr "Voir les employés"
+
+#: Template/Employees/edit.ctp:23
+#: Template/Employees/index.ctp:34;58
+msgid "Employees"
+msgstr "Employés"
+
+#: Template/Employees/edit.ctp:24
+#: Template/Employees/index.ctp:36
+msgid "Manage your products"
+msgstr "Gérer vos produits"
+
+#: Template/Employees/edit.ctp:24
+#: Template/Employees/index.ctp:36
+msgid "View enterprise's products"
+msgstr "Voir les produits"
+
+#: Template/Employees/edit.ctp:25
+#: Template/Employees/index.ctp:37
+msgid "Products"
+msgstr "Produits"
+
+#: Template/Employees/edit.ctp:26
+#: Template/Employees/index.ctp:39
+msgid "Manage your services"
+msgstr "Gérez vos services"
+
+#: Template/Employees/edit.ctp:26
+#: Template/Employees/index.ctp:39
+msgid "View enterprise's services"
+msgstr ""
+
+#: Template/Employees/edit.ctp:27
+#: Template/Employees/index.ctp:40
+msgid "Services"
+msgstr "Services"
+
+#: Template/Employees/edit.ctp:28
+#: Template/Employees/index.ctp:43
+msgid "Manage your suppliers"
+msgstr "Gérer vos fournisseurs"
+
+#: Template/Employees/edit.ctp:28
+#: Template/Employees/index.ctp:43
+msgid "View enterprise's suppliers"
+msgstr "Voir les fournisseurs"
+
+#: Template/Employees/edit.ctp:29
+#: Template/Employees/index.ctp:44
+msgid "Suppliers"
+msgstr "Fournisseurs"
+
+#: Template/Employees/edit.ctp:37
+msgid "Edit Employee Informations"
+msgstr "Modifier les informations de l'employé"
+
+#: Template/Employees/edit.ctp:43
+#: Template/Employees/index.ctp:336;392
+msgid "First name"
+msgstr "Nom"
+
+#: Template/Employees/edit.ctp:45
+msgid "Employee's first name"
+msgstr "Nom de l'employé"
+
+#: Template/Employees/edit.ctp:53
+#: Template/Employees/index.ctp:337;393
+msgid "Last name"
+msgstr "Prénom"
+
+#: Template/Employees/edit.ctp:55
+msgid "Employee's last name"
+msgstr "Prénom de l'employé"
+
+#: Template/Employees/edit.ctp:61
+#: Template/Employees/index.ctp:102
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#: Template/Employees/edit.ctp:73
+msgid "Address"
+msgstr "Adresse"
+
+#: Template/Employees/edit.ctp:76
+msgid "Employee's address"
+msgstr "Adresse de l'employé"
+
+#: Template/Employees/edit.ctp:92
+#: Template/Employees/index.ctp:87
+msgid "Category"
+msgstr "Catégorie"
+
+#: Template/Employees/edit.ctp:101
+msgid "Hire Date"
+msgstr "Date d'embauche"
+
+#: Template/Employees/edit.ctp:114
+#: Template/Employees/index.ctp:156
+msgid "New Category"
+msgstr "Nouvelle catégorie"
+
+#: Template/Employees/edit.ctp:151
+msgid "Add Employee"
+msgstr "Ajouter un employé"
+
+#: Template/Employees/edit.ctp:151
+#: Template/Employees/index.ctp:222
+msgid "Save changes"
+msgstr "Enregistrer les changements"
+
+#: Template/Employees/index.ctp:19
+msgid "Joined"
+msgstr "Join le"
+
+#: Template/Employees/index.ctp:22
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+#: Template/Employees/index.ctp:30
+msgid "Details"
+msgstr "Détails"
+
+#: Template/Employees/index.ctp:60
+msgid "Categories"
+msgstr "Catégories"
+
+#: Template/Employees/index.ctp:73
+msgid " Add Employee"
+msgstr " Ajouter un employé"
+
+#: Template/Employees/index.ctp:85
+msgid "Image"
+msgstr "Image"
+
+#: Template/Employees/index.ctp:86;180
+msgid "Name"
+msgstr "Nom"
+
+#: Template/Employees/index.ctp:90
+msgid "Action"
+msgstr "Action"
+
+#: Template/Employees/index.ctp:103
+msgid "Since"
+msgstr "Depuis"
+
+#: Template/Employees/index.ctp:113;347;403
+msgid "Edit this employee"
+msgstr "Modifier cet employé"
+
+#: Template/Employees/index.ctp:126
+msgid "Delete this employee"
+msgstr "Supprimer cet employé"
+
+#: Template/Employees/index.ctp:127
+msgid "Are you sure you want to delete {0}?"
+msgstr "Voulez-vous vraiment supprimer {0}?"
+
+#: Template/Employees/index.ctp:155;159;163
+msgid "Add"
+msgstr "Ajouter"
+
+#: Template/Employees/index.ctp:229;282;317
+msgid "Delete Category"
+msgstr "Supprimer cette catégorie"
+
+#: Template/Employees/index.ctp:237
+msgid "List Employees"
+msgstr "Lister les employés"
+
+#: Template/Employees/index.ctp:278
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Template/Employees/index.ctp:285
+msgid "Do you really want to delete this category and all its employees?"
+msgstr "Voulez-vous vraiment supprimer cette catégories ainsi que ces employés ?"
+
+#: Template/Employees/index.ctp:290
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Template/Employees/index.ctp:329
+msgid "This category has no employee. Confirm to delete"
+msgstr "Cette catégorie ne contient aucun employé. Confirmer pour supprimer"
+
+#: Template/Employees/index.ctp:334
+msgid "They will be deleted."
+msgstr "Ils seront supprimés après confirmation."
+
+#: Template/Employees/index.ctp:375
+msgid "All Employees in this Category"
+msgstr "Tous les employés de cette catégorie"
+
+#: Template/Employees/index.ctp:386
+msgid "This category has no employee"
+msgstr "Cette catégorie ne contient aucun employé."
+

@@ -1,0 +1,44 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-02-25 17:30+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: src/Controller/ServicesController.php:25
+msgid "Enterprise does not exist"
+msgstr ""
+
+#: src/Controller/ServicesController.php:106
+msgid "All fields are required"
+msgstr ""
+
+#: src/Controller/ServicesController.php:114
+msgid "This category does not exist in your enterprise"
+msgstr ""
+
+#: src/Controller/ServicesController.php:121
+msgid "The image is invalid."
+msgstr ""
+
+#: src/Controller/ServicesController.php:134;145
+msgid "The service has been saved."
+msgstr ""
+
+#: src/Controller/ServicesController.php:139
+msgid "The service could not be saved. Please, try again."
+msgstr ""
+
+#: src/Controller/ServicesController.php:148
+msgid "The service could not be saved . Please, try again."
+msgstr ""
+

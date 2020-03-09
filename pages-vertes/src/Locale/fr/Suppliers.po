@@ -1,0 +1,289 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-03-15 14:37+0000\n"
+"PO-Revision-Date: 2018-03-15 15:45+0100\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: fr\n"
+
+#: Controller/SupplierCategoriesController.php:32;60
+msgid "The supplier category has been saved."
+msgstr "La catégorie de fournisseur a été enregistrée."
+
+#: Controller/SupplierCategoriesController.php:35;64
+msgid "The supplier category could not be saved. Please, try again."
+msgstr "La catégorie de fournisseur n'a pas pu être enregistrée. Veuillez réessayer. "
+
+#: Controller/SupplierCategoriesController.php:51
+msgid "You are not authorized to edit this category"
+msgstr "Vous n'êtres pas autorisé(e) à éditer cette catégorie."
+
+#: Controller/SupplierCategoriesController.php:80
+msgid "You are not authorized to delete this category"
+msgstr "Vous n'êtres pas autorisé(e) à supprimer cette catégorie."
+
+#: Controller/SupplierCategoriesController.php:86
+msgid "The supplier category has been deleted."
+msgstr "La catégorie de fournisseur a été supprimée."
+
+#: Controller/SupplierCategoriesController.php:88
+msgid "The supplier category could not be deleted. Please, try again."
+msgstr "La catégorie de fournisseur n'a pas pu être enregistrée. Veuillez réessayer."
+
+#: Controller/SupplierCategoriesController.php:105
+msgid "This category contains {0} supplier(s)."
+msgstr "Cette catégorie contient {0} supplier(s)."
+
+#: Controller/SupplierCategoriesController.php:126
+#: Controller/SuppliersController.php:96;328
+msgid "This category does not exist in your enterprise"
+msgstr "Cette catégorie n'est pas associée à votre entreprise."
+
+#: Controller/SuppliersController.php:29
+msgid "Enterprise does not exist"
+msgstr "Cette entreprise n'existe pas."
+
+#: Controller/SuppliersController.php:99
+msgid "The image is invalid."
+msgstr "L'image est invalide."
+
+#: Controller/SuppliersController.php:111;122
+msgid "The supplier has been saved."
+msgstr "Le fournisseur a été enregistré."
+
+#: Controller/SuppliersController.php:116
+msgid "The supplier could not be saved. Please, try again."
+msgstr "Le fournisseur n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/SuppliersController.php:125
+msgid "The supplier could not be saved . Please, try again."
+msgstr "Le fournisseur n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/SuppliersController.php:150
+msgid "You are not authorized to edit this supplier"
+msgstr "Vous n'êtres pas autorisé(e) à éditer ce fournisseur."
+
+#: Controller/SuppliersController.php:189;200
+msgid "Cannot save this image file. Please try with another one"
+msgstr "L'image n'a pas pu être enregistrée. Merci de sélectionner une image différente."
+
+#: Controller/SuppliersController.php:227
+msgid "The picture has been deleted."
+msgstr "L'image a été supprimée."
+
+#: Controller/SuppliersController.php:239
+msgid "{0} has been saved."
+msgstr "{0} a été sauvegardé."
+
+#: Controller/SuppliersController.php:243
+msgid "{0} could not be saved. Please, try again."
+msgstr "{0} n'a pas pu être sauvegardé. Veuillez réessayer."
+
+#: Controller/SuppliersController.php:267
+msgid "You are not authorized to delete this supplier"
+msgstr "Vous n'êtres pas autorisé(e) à supprimer ce fournisseur."
+
+#: Controller/SuppliersController.php:273
+msgid "The supplier has been deleted."
+msgstr "Le fournisseur a été supprimé."
+
+#: Controller/SuppliersController.php:275
+msgid "The supplier could not be deleted. Please, try again."
+msgstr "Le fournisseur n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Model/Table/SuppliersTable.php:68
+msgid "Value must be between 5 and 50."
+msgstr "La valeur doit être comprise entre 5 et 50 caractères."
+
+#: Model/Table/SuppliersTable.php:70
+msgid "Value cannot be empty."
+msgstr "La valeur ne peut pas être vide."
+
+#: Model/Table/SuppliersTable.php:74
+msgid "Value must be between 5 and 100."
+msgstr "La valeur doit être comprise entre 5 et 100 caractères."
+
+#: Model/Table/SuppliersTable.php:76
+msgid "Value cannot be empty"
+msgstr "La valeur ne peut pas être vide."
+
+#: Template/Suppliers/edit.ctp:17
+msgid "Supplier"
+msgstr "Fournisseur"
+
+#: Template/Suppliers/edit.ctp:22 Template/Suppliers/index.ctp:31
+msgid "Employees"
+msgstr "Employés"
+
+#: Template/Suppliers/edit.ctp:23 Template/Suppliers/index.ctp:32
+msgid "Products"
+msgstr "Produits"
+
+#: Template/Suppliers/edit.ctp:24 Template/Suppliers/index.ctp:33
+msgid "Services"
+msgstr "Services"
+
+#: Template/Suppliers/edit.ctp:25 Template/Suppliers/index.ctp:34;47
+msgid "Suppliers"
+msgstr "Fournisseurs"
+
+#: Template/Suppliers/edit.ctp:33
+msgid "New supplier"
+msgstr "Nouveau fournisseur"
+
+#: Template/Suppliers/edit.ctp:37 Template/Suppliers/index.ctp:83;178;344;398
+msgid "Name"
+msgstr "Nom"
+
+#: Template/Suppliers/edit.ctp:39
+msgid "Enter name"
+msgstr "Entrez un nom"
+
+#: Template/Suppliers/edit.ctp:44 Template/Suppliers/index.ctp:102
+msgid "Address"
+msgstr "Adresse"
+
+#: Template/Suppliers/edit.ctp:47
+msgid "Enter address"
+msgstr "Entrez une adresse"
+
+#: Template/Suppliers/edit.ctp:53 Template/Suppliers/index.ctp:84
+msgid "Category"
+msgstr "Catégorie"
+
+#: Template/Suppliers/edit.ctp:57
+msgid "Select associated categories"
+msgstr "Sélectionnez les catégories associées"
+
+#: Template/Suppliers/edit.ctp:64
+msgid "Delete picture"
+msgstr "Supprimer l'image"
+
+#: Template/Suppliers/edit.ctp:76
+msgid "Add Supplier"
+msgstr "Ajouter fournisseur"
+
+#: Template/Suppliers/edit.ctp:76
+msgid "Save My Changes"
+msgstr "Sauvegardez mes changements "
+
+#: Template/Suppliers/index.ctp:29
+msgid "Details"
+msgstr "Détails"
+
+#: Template/Suppliers/index.ctp:31
+msgid "Manage your employees"
+msgstr "Gérez vos employés"
+
+#: Template/Suppliers/index.ctp:31
+msgid "View enterprise's employees"
+msgstr "Voir les employés de l'entreprise"
+
+#: Template/Suppliers/index.ctp:32
+msgid "Manage your products"
+msgstr "Gérez vos produits"
+
+#: Template/Suppliers/index.ctp:32
+msgid "View enterprise's products"
+msgstr "Voir les produits de l'entreprise"
+
+#: Template/Suppliers/index.ctp:33
+msgid "Manage your services"
+msgstr "Gérez vos services"
+
+#: Template/Suppliers/index.ctp:33
+msgid "View enterprise's services"
+msgstr "Voir les services de l'entreprise"
+
+#: Template/Suppliers/index.ctp:34
+msgid "Manage your suppliers"
+msgstr "Gérez vos fournisseurs"
+
+#: Template/Suppliers/index.ctp:34
+msgid "View enterprise's suppliers"
+msgstr "Voir les fournisseurs de l'entreprise"
+
+#: Template/Suppliers/index.ctp:48
+msgid "Categories"
+msgstr "Catégories"
+
+#: Template/Suppliers/index.ctp:78
+msgid "Add Suppliers"
+msgstr "Ajouter un fournisseur"
+
+#: Template/Suppliers/index.ctp:82
+msgid "Image"
+msgstr "Image"
+
+#: Template/Suppliers/index.ctp:110
+msgid "Edit supplier"
+msgstr "Editer un fournisseur"
+
+#: Template/Suppliers/index.ctp:122
+msgid "Delete supplier"
+msgstr "Supprimer un fournisseur"
+
+#: Template/Suppliers/index.ctp:123
+msgid "Are you sure you want to delete {0}?"
+msgstr "Voulez-vous vraiment supprimer {0} ?"
+
+#: Template/Suppliers/index.ctp:165
+msgid "New Category"
+msgstr "Nouvelle catégorie"
+
+#: Template/Suppliers/index.ctp:166;169
+msgid "Add"
+msgstr "Ajouter"
+
+#: Template/Suppliers/index.ctp:179
+msgid "Action"
+msgstr "Action"
+
+#: Template/Suppliers/index.ctp:224
+msgid "Save changes"
+msgstr "Sauvegarder les changements"
+
+#: Template/Suppliers/index.ctp:229;292
+msgid "Delete Category"
+msgstr "Supprimer la catégorie"
+
+#: Template/Suppliers/index.ctp:237
+msgid "List Suppliers"
+msgstr "Liste des fournisseurs"
+
+#: Template/Suppliers/index.ctp:288
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Template/Suppliers/index.ctp:295
+msgid "Do you really want to delete this category and all its suppliers?"
+msgstr "Voulez-vous vraiment supprimer cette catégorie et tous ses fournisseurs ?"
+
+#: Template/Suppliers/index.ctp:299
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Template/Suppliers/index.ctp:338
+msgid "This category has no supplier. Confirm to delete"
+msgstr "Cette catégorie n'a pas de fournisseur. Confirmer la supression"
+
+#: Template/Suppliers/index.ctp:353;407
+msgid "Edit this supplier"
+msgstr "Editer ce fournisseur"
+
+#: Template/Suppliers/index.ctp:382
+msgid "All suppliers in this Category"
+msgstr "Tous les fournisseurs de cette catégorie"
+
+#: Template/Suppliers/index.ctp:392
+msgid "This category has no suppliers."
+msgstr "Cette catégorie ne contient pas de fournisseurs."

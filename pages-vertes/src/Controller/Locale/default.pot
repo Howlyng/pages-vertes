@@ -1,0 +1,92 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-03-15 00:32+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/EmployeesController.php:284
+msgid "The employee has been deleted."
+msgstr ""
+
+#: Controller/EmployeesController.php:286
+msgid "The employee could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EnterprisesController.php:60
+msgid "The enterprise has been saved."
+msgstr ""
+
+#: Controller/EnterprisesController.php:64;105;118
+msgid "The enterprise could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EnterprisesController.php:114
+msgid "The informations has been saved."
+msgstr ""
+
+#: Controller/EnterprisesController.php:141
+msgid "The enterprise has been deleted."
+msgstr ""
+
+#: Controller/EnterprisesController.php:143
+msgid "The enterprise could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ServicesController.php:321
+msgid "The service has been deleted."
+msgstr ""
+
+#: Controller/ServicesController.php:323
+msgid "The service could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:35
+msgid "Successfully logged in"
+msgstr ""
+
+#: Controller/UsersController.php:88
+msgid "Account created! Welcome!"
+msgstr ""
+
+#: Controller/UsersController.php:95
+msgid "Can't create your account. Please try again and make sure you entered all info"
+msgstr ""
+
+#: Controller/UsersController.php:128
+msgid "Passwords don't match. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:132
+msgid "Wrong password. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:139
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:143
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:163
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:165
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:178
+msgid "Thank you! Come again!"
+msgstr ""
+

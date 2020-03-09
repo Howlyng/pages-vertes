@@ -1,0 +1,244 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-02-25 17:25+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Template/Services/add.ctp:10
+msgid "Save Article"
+msgstr "Sauvegarder l'article"
+
+#: Template/Services/edit.ctp:23
+#: Template/Services/index.ctp:33
+msgid "Employees"
+msgstr "Employés"
+
+#: Template/Services/edit.ctp:24
+#: Template/Services/index.ctp:35
+msgid "Products"
+msgstr "Produits"
+
+#: Template/Services/edit.ctp:25
+#: Template/Services/index.ctp:37
+msgid "Services"
+msgstr "Services"
+
+#: Template/Services/edit.ctp:26
+#: Template/Services/index.ctp:39
+msgid "Suppliers"
+msgstr "Fourniseurs"
+
+#: Template/Services/edit.ctp:46;69
+#: Template/Services/index.ctp:71;138
+msgid "Name"
+msgstr "Nom"
+
+#: Template/Services/edit.ctp:59;96
+#: Template/Services/index.ctp:72
+msgid "Category"
+msgstr "Categories"
+
+#: Template/Services/edit.ctp:61
+msgid "None"
+msgstr "Aucun"
+
+#: Template/Services/edit.ctp:62
+msgid "Category 1"
+msgstr "Categorie 1"
+
+#: Template/Services/edit.ctp:71
+msgid "Service's name"
+msgstr "Nom du services"
+
+#: Template/Services/edit.ctp:76
+#: Template/Services/index.ctp:86
+msgid "Price"
+msgstr "Prix"
+
+#: Template/Services/edit.ctp:82
+msgid "Service's price"
+msgstr "Prix du service"
+
+#: Template/Services/edit.ctp:87
+#: Template/Services/index.ctp:70
+msgid "Image"
+msgstr "Image"
+
+#: Template/Services/edit.ctp:108
+msgid "Add a new categorie so that you can use it  in your entreprise services"
+msgstr "Ajouter une nouvelle catégori  pour pouvoir l'utiliser dans votre entreprise"
+
+#: Template/Services/index.ctp:24
+msgid "Edit Profile"
+msgstr "Modifier Profile"
+
+#: Template/Services/index.ctp:33
+msgid "Manage your employees"
+msgstr "Gerer vos Employers"
+
+#: Template/Services/index.ctp:33
+msgid "View enterprise's employees"
+msgstr "Voir les employers de l'entreprise"
+
+#: Template/Services/index.ctp:35
+msgid "Manage your products"
+msgstr "Gerer vos Produits"
+
+#: Template/Services/index.ctp:35
+msgid "View enterprise's products"
+msgstr "Voir les produit de l'entreprise"
+
+#: Template/Services/index.ctp:37
+msgid "Manage your services"
+msgstr "Gerer vos Services"
+
+#: Template/Services/index.ctp:37
+msgid "View enterprise's services"
+msgstr "Voir les services de l'entreprise"
+
+#: Template/Services/index.ctp:39
+msgid "Manage your suppliers"
+msgstr "Voir les produit de l'entreprise"
+
+#: Template/Services/index.ctp:39
+msgid "View enterprise's suppliers"
+msgstr "Voir les Fourniseurs de l'entreprise"
+
+#: Template/Services/index.ctp:58
+msgid "Consult Services"
+msgstr "Consulters vos services"
+
+#: Template/Services/index.ctp:59
+msgid "Consult Services categories"
+msgstr "Consulter les catégories de services"
+
+#: Template/Services/index.ctp:97;157
+msgid "Delete Category"
+msgstr "Supprimer la catégorie"
+
+#: Template/Services/index.ctp:102
+msgid "Edit Service"
+msgstr "Modifier vos services"
+
+#: Template/Services/index.ctp:107
+msgid "Delete Service"
+msgstr "supprimer vos services"
+
+#: Template/Services/index.ctp:127;130
+msgid "Add"
+msgstr "Ajouter un services"
+
+#: Template/Services/index.ctp:152
+msgid "Save changes"
+msgstr "Sauvegarder Changement"
+
+#: src/Controller/ServicesController.php:25
+msgid "Enterprise does not exist"
+msgstr "L'entreprisse n'existe pas"
+
+#: src/Controller/ServicesController.php:106
+msgid "All fields are required"
+msgstr "Veuiller remplir tout les champs"
+
+#: src/Controller/ServicesController.php:114
+msgid "This category does not exist in your enterprise"
+msgstr "Cette catégorie n'existe pas dans votre entreprise"
+
+#: src/Controller/ServicesController.php:121
+msgid "The image is invalid."
+msgstr "L'imageest invalide"
+
+#: src/Controller/ServicesController.php:134;145
+msgid "The service has been saved."
+msgstr "Le services a été sauvegarder"
+
+#: src/Controller/ServicesController.php:139
+msgid "The service could not be saved. Please, try again."
+msgstr "Le service na pas pu etre sauvegarder, Réessayer"
+
+#: src/Controller/ServicesController.php:148
+msgid "The service could not be saved . Please, try again."
+msgstr "Le service na pas pu etre sauvegarder, Réessayer"
+
+#: Controller/ServiceCategoriesController.php:32;60
+msgid "The service category has been saved."
+msgstr "La category de services a été sauvegarder"
+
+#: Controller/ServiceCategoriesController.php:35;65
+msgid "The service category could not be saved. Please, try again."
+msgstr "La category de services na pas pu etre sauvegarder, Réessayer"
+
+#: Controller/ServicesController.php:248
+msgid "The picture has been deleted."
+msgstr "La photo a été supprimer"
+
+#: Template/Services/index.ctp:131
+msgid "New Category"
+msgstr "Nouvelle catégorie"
+
+#: Template/Services/index.ctp:186;228
+msgid "Delete Category"
+msgstr "Supprimer la catégorie"
+
+#: Template/Services/index.ctp:224
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Template/Services/index.ctp:231
+msgid "Do you really want to delete this category and all its services?"
+msgstr "Voullez vous vraiment supprimer ette cétégorie et ses services?"
+
+#: Template/Services/index.ctp:235
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Controller/ServiceCategoriesController.php:32;69
+msgid "The service category has been saved."
+msgstr "La category de services a été sauvegarder"
+
+#: Controller/ServiceCategoriesController.php:35;76
+msgid "The service category could not be saved. Please, try again."
+msgstr "La category de services na pas pu etre sauvegarder, Réessayer"
+
+#: Controller/ServiceCategoriesController.php:63;97
+#: Controller/ServicesController.php:133;223
+msgid "This category does not exist in your enterprise"
+msgstr "Cette category n'existe pas dans votre entreprise"
+
+#: Controller/ServiceCategoriesController.php:102
+msgid "The service category and all its services have been deleted."
+msgstr "La category de services et tout ses services ont supprimer"
+
+#: Controller/ServiceCategoriesController.php:105
+msgid "The service category could not be deleted. Please, try again."
+msgstr "La category de services na pas pu etre supprimer, Réessayer"
+
+#: Controller/ServiceCategoriesController.php:136
+msgid "This category contains {0} services(s). They will be deleted"
+msgstr "Cette category contient {0} services. Ils seront supprimer"
+
+#: Controller/ServicesController.php:44
+msgid "Enterprise does not exist"
+msgstr "L'entreprisse n'existe pas"
+
+#: Template/Services/index.ctp:319
+msgid " It(they) will be deleted if you confirm."
+msgstr "Il seront supprimer si vous confirmer "
+
+#: Template/Services/index.ctp:363
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: Template/Services/index.ctp:80
+msgid "Add Service"
+msgstr "Ajouter un service"

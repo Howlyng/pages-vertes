@@ -1,0 +1,303 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-03-15 01:18+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ProductCategoriesController.php:31;61
+msgid "The product category has been saved."
+msgstr "La catégorie de produit a été sauvegardée."
+
+#: Controller/ProductCategoriesController.php:34;65
+msgid "The product category could not be saved. Please, try again."
+msgstr "Impossible de sauvegarder la catégorie. Veuillez réessayer"
+
+#: Controller/ProductCategoriesController.php:50;81
+#: Controller/ProductsController.php:159;232
+msgid "You are not authorized to delete this product"
+msgstr "Vous n'êtes autorisé à supprimer ce produit"
+
+#: Controller/ProductCategoriesController.php:88
+msgid "The product category and all its products have been deleted."
+msgstr "La catégorie et tous ses produits ont été supprimés"
+
+#: Controller/ProductCategoriesController.php:90
+msgid "The product category could not be deleted. Please, try again."
+msgstr "Impossible de sauvegarder le produit."
+
+#: Controller/ProductCategoriesController.php:118
+msgid "This category contains {0} product(s)."
+msgstr "Cette catégorie contient {0} produit(s)."
+
+#: Controller/ProductCategoriesController.php:138
+#: Controller/ProductsController.php:114;273
+msgid "This category does not exist in your enterprise"
+msgstr "Cette catégorie n'existe pas."
+
+#: Controller/ProductsController.php:47
+msgid "Enterprise does not exist"
+msgstr "Cette entreprise n'existe pas"
+
+#: Controller/ProductsController.php:119
+msgid "Please select an image."
+msgstr "Veuillez sélectionner une image."
+
+#: Controller/ProductsController.php:130
+msgid "The product has been saved."
+msgstr "La produit a été enregistré."
+
+#: Controller/ProductsController.php:135
+msgid "The product could not be saved. Please, try again."
+msgstr "Impossible d'enregistrer leproduit. Veuillez réessayer"
+
+#: Controller/ProductsController.php:178
+msgid "Name cannot be left empty"
+msgstr "Le nom ne peut pas être vide"
+
+#: Controller/ProductsController.php:198
+msgid "Cannot save this image file. Please try with another one"
+msgstr "Impossible de sauvegarder cette image. Réessayer avec une autre"
+
+#: Controller/ProductsController.php:207
+msgid "{0} has been saved."
+msgstr "{0} a été enregistré."
+
+#: Controller/ProductsController.php:213
+msgid "{0} could not be saved. Please, try again."
+msgstr "Impossible d'enregistrer {0}. Veuillez réessayer."
+
+#: Controller/ProductsController.php:239
+msgid "The product has been deleted."
+msgstr "Le produit a été supprimé."
+
+#: Controller/ProductsController.php:241
+msgid "The product could not be deleted. Please, try again."
+msgstr "Impossible de supprimer le produit. Veuillez réessayer"
+
+#: Model/Table/ProductsTable.php:69;70
+msgid "Required length is between 6 and 49"
+msgstr "Doit se trouver entre 6 et 49"
+
+#: Model/Table/ProductsTable.php:71;72
+msgid "This field cannot be left empty"
+msgstr "Ce champs ne peut être vide."
+
+#: Template/Products/edit.ctp:17
+msgid "New product"
+msgstr "Nouveau produit"
+
+#: Template/Products/edit.ctp:22
+#: Template/Products/index.ctp:30
+msgid "Employees"
+msgstr "Employés"
+
+#: Template/Products/edit.ctp:23
+#: Template/Products/index.ctp:31;48
+msgid "Products"
+msgstr "Produits"
+
+#: Template/Products/edit.ctp:24
+#: Template/Products/index.ctp:32
+msgid "Services"
+msgstr "Services"
+
+#: Template/Products/edit.ctp:25
+#: Template/Products/index.ctp:33
+msgid "Suppliers"
+msgstr "Fournisseurs"
+
+#: Template/Products/edit.ctp:35
+msgid "Edit Product Information"
+msgstr "Modifier les produits"
+
+#: Template/Products/edit.ctp:40
+#: Template/Products/index.ctp:82;176;340;394
+msgid "Name"
+msgstr "Nom"
+
+#: Template/Products/edit.ctp:42
+msgid "Product's name"
+msgstr "Nom du produit"
+
+#: Template/Products/edit.ctp:50
+#: Template/Products/index.ctp:98
+msgid "Price"
+msgstr "Prix"
+
+#: Template/Products/edit.ctp:56
+msgid "Product's price"
+msgstr "Prix du produit"
+
+#: Template/Products/edit.ctp:61
+msgid "Quantity available"
+msgstr "Quantité disponible"
+
+#: Template/Products/edit.ctp:66
+msgid "Product's available quantity"
+msgstr "Quantité disponible du produit"
+
+#: Template/Products/edit.ctp:71
+msgid "Minimum quantity limit"
+msgstr "Quantité minimale"
+
+#: Template/Products/edit.ctp:77
+msgid "Product's minimum quantity limit"
+msgstr "Quantité minimale du produit"
+
+#: Template/Products/edit.ctp:82
+msgid "Maximum quantity limit"
+msgstr "Quantité maximale"
+
+#: Template/Products/edit.ctp:88
+msgid "Product's maximum quantity limit"
+msgstr "Quantité maximale du produit"
+
+#: Template/Products/edit.ctp:103
+#: Template/Products/index.ctp:83
+msgid "Category"
+msgstr "Catégorie"
+
+#: Template/Products/edit.ctp:114
+msgid "Not working yet"
+msgstr "Non implémenté"
+
+#: Template/Products/edit.ctp:117
+#: Template/Products/index.ctp:77
+msgid "Add Product"
+msgstr "Ajouter un produit"
+
+#: Template/Products/edit.ctp:117
+msgid "Save My Changes"
+msgstr "Enregistrer"
+
+#: Template/Products/index.ctp:19
+msgid "Joined"
+msgstr "Join le"
+
+#: Template/Products/index.ctp:21
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+#: Template/Products/index.ctp:28
+msgid "Details"
+msgstr "Détails"
+
+#: Template/Products/index.ctp:30
+msgid "Manage your employees"
+msgstr "Gérer vos employés"
+
+#: Template/Products/index.ctp:30
+msgid "View enterprise's employees"
+msgstr "Voir les employés"
+
+#: Template/Products/index.ctp:31
+msgid "Manage your products"
+msgstr "Gérer vos produits"
+
+#: Template/Products/index.ctp:31
+msgid "View enterprise's products"
+msgstr "Voir les produits"
+
+#: Template/Products/index.ctp:32
+msgid "Manage your services"
+msgstr "Gérer vos services"
+
+#: Template/Products/index.ctp:32
+msgid "View enterprise's services"
+msgstr "Voir les services"
+
+#: Template/Products/index.ctp:33
+msgid "Manage your suppliers"
+msgstr "Gérer vos fournisseurs"
+
+#: Template/Products/index.ctp:33
+msgid "View enterprise's suppliers"
+msgstr "Voir les fournisseurs"
+
+#: Template/Products/index.ctp:49
+msgid "Categories"
+msgstr "Catégories"
+
+#: Template/Products/index.ctp:81
+msgid "Image"
+msgstr ""
+
+#: Template/Products/index.ctp:97
+msgid "Qty available"
+msgstr "Qté disponible"
+
+#: Template/Products/index.ctp:106
+msgid "Edit product"
+msgstr "Modifier le produit"
+
+#: Template/Products/index.ctp:118
+msgid "Delete product"
+msgstr "Supprimer le produit"
+
+#: Template/Products/index.ctp:119
+msgid "Are you sure you want to delete {0}?"
+msgstr "Voulez-vous vraiment supprimer {0}"
+
+#: Template/Products/index.ctp:163
+#: Template/Services/index.ctp:157
+msgid "New Category"
+msgstr "Nouvelle catégorie"
+
+#: Template/Products/index.ctp:164;167
+msgid "Add"
+msgstr "Ajouter"
+
+#: Template/Products/index.ctp:177
+msgid "Action"
+msgstr ""
+
+#: Template/Products/index.ctp:221
+msgid "Save changes"
+msgstr "Enregistrer"
+
+#: Template/Products/index.ctp:226;286
+msgid "Delete Category"
+msgstr "Supprimer la catégorie"
+
+#: Template/Products/index.ctp:234
+msgid "List Products"
+msgstr "Lister les produits"
+
+#: Template/Products/index.ctp:282
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Template/Products/index.ctp:289
+msgid "Do you really want to delete this category and all its products?"
+msgstr "Voulez-vous vraiment supprimer cette catégorie et tous ses produits?"
+
+#: Template/Products/index.ctp:293
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Template/Products/index.ctp:334
+msgid "This category has no product. Confirm to delete"
+msgstr "Cette catégorie ne contient aucun produit. Confirmer pour supprimer"
+
+#: Template/Products/index.ctp:350;403
+msgid "Edit this product"
+msgstr "Modifier ce produit"
+
+#: Template/Products/index.ctp:378
+msgid "All Products in this Category"
+msgstr "Tous les produits de cette catégorie"
+
+#: Template/Products/index.ctp:388
+msgid "This category has no products."
+msgstr "Cette catégorie ne contient aucun produit"
+
